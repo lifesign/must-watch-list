@@ -17,5 +17,6 @@ Must-Watch List
 - Python
   - [By primalpop](https://github.com/primalpop/python-must-watch)
   - [By s16h](https://github.com/s16h/py-must-watch)
+- [Scala](https://github.com/bodiam/scala-must-watch)
 - [Startup](https://github.com/gerricchaplin/startup-must-watch)
 - [Symfony](https://github.com/symfony-si/symfony-must-watch)
