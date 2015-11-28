@@ -5,7 +5,7 @@ Must-Watch List
 @todo Better Organize
 
 - [Css](https://github.com/AllThingsSmitty/must-watch-css)
-- [Closure](https://github.com/aenoble/clojure-must-watch)
+- [Clojure](https://github.com/aenoble/clojure-must-watch)
 - [Django](https://github.com/rosarior/django-must-watch)
 - [Haskell](https://github.com/drKraken/haskell-must-watch)
 - [Go](https://github.com/sauravtom/go-must-watch)
